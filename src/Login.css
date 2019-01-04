@@ -1,0 +1,16 @@
+/* 
+
+button, input {
+    font-family: 'Open Sans', sans-serif;
+    color: #8b959c;
+}
+
+button {
+    border: #8b959c solid 1px;
+}
+
+*/
+
+.Login, .Register {
+    text-align: center;
+}
