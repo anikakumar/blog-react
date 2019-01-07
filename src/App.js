@@ -412,7 +412,7 @@ class App extends Component {
     //console.log("State: ", this.state);
     return (
       <div className="App">
-        <h1>Like Tumblr™ but Worse</h1>
+        <h1>React + Firebase Blog</h1>
         <div className="signout">
         {this.state.loggedin ? <button className="btn btn-danger btn-sm delete" onClick={() =>
         {
