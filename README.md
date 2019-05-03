@@ -16,3 +16,6 @@ Users can search for posts by title. This search bar filters through post titles
 Users can like posts created by other user and their own posts. A user cannot like a post more than once. 
 
 ![Screenshot of Blog](330blog.png)
+
+Clip of Dynamic Search Bar
+<video src="searchbar.mp4" width="320" height="200" controls preload></video>
